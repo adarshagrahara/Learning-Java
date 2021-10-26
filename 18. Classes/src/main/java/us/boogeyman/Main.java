@@ -1,0 +1,1 @@
+public class Main {	public static void main(String[] args) {		// TODO Auto-generated method stub			Car porche = new Car();		Car holden = new Car();		Car honda = new Car();				porche.setModel("911");				System.out.println("Model is "+ porche.getModel());										}}

@@ -1,0 +1,37 @@
+
+p
+java:S3008"URename this field "account_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ªüÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(§·´¤
+1
+java:S3626?"Remove this redundant jump.(ÉŠ©ƒ
+‚
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(¬…¯â
+
+java:S1130"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(¬…¯â8ÛŞú¼Ç/
+”
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(¬…¯â8ÜŞú¼Ç/
+9
+java:S2119J"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
+L
+java:S1751W"6Remove this "return" statement or make it conditional.(åé•ª
+x
+java:S1104"VMake account_ID a static final constant or non-public and provide accessors if needed.(…ªüÿÿÿÿ8Şáú¼Ç/
+v
+java:S1104"TMake fullName a static final constant or non-public and provide accessors if needed.(óÊ¡ûşÿÿÿÿ8ßáú¼Ç/
+n
+java:S1104"QMake email a static final constant or non-public and provide accessors if needed.(Öï„Ë8àáú¼Ç/
+r
+java:S1104"WMake phoneNumber a static final constant or non-public and provide accessors if needed.(ı©şûÿÿÿÿ
+j
+java:S1104"TMake password a static final constant or non-public and provide accessors if needed.(ìÅŸ‘
+K
+java:S1444"0Make this "public static account_ID" field final(…ªüÿÿÿÿ
+I
+java:S1444".Make this "public static fullName" field final(óÊ¡ûşÿÿÿÿ
+A
+java:S1444"+Make this "public static email" field final(Öï„Ë
+L
+java:S1444"1Make this "public static phoneNumber" field final(ı©şûÿÿÿÿ
+D
+java:S1444".Make this "public static password" field final(ìÅŸ‘
