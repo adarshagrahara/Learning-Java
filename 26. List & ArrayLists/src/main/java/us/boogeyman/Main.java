@@ -1,6 +1,8 @@
 package us.boogeyman;
 
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 import java.util.Scanner;
 
 
@@ -39,10 +41,25 @@ public class Main {
                         case 6:
                               quit = true;
                               break;
+                        case 7:
+                              processArrayList();
                         default:
                         
                   }
             }
+      }
+      
+      public static void processArrayList(){
+            ArrayList<String> newArrayList = new ArrayList<String>();
+            newArrayList.addAll(groceryList.getTheGroceryList());
+            
+            ArrayList<String> nextArrayList = new ArrayList<String>(groceryList.getTheGroceryList());
+            
+            String[] myArray = new String[groceryList.getTheGroceryList().size()];
+            myArray = groceryList.getTheGroceryList().toArray(myArray);
+            System.out.println(Arrays.toString(myArray));
+      
+            ArrayList<String> myArrayList = new ArrayList<String>(Arrays.asList(myArray));
       }
       
       public static void printInstructions() {
@@ -85,6 +102,10 @@ class GroceryList {
       public void addGroceryItem() {
             System.out.print("Please enter the grocery item: ");
             theGroceryList.add(scanner.nextLine());
+      }
+      
+      public ArrayList<String> getTheGroceryList() {
+            return theGroceryList;
       }
       
       public void printGroceryList() {
