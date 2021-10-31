@@ -93,9 +93,9 @@ class Contacts {
       
       private void searchForContacts() {
             System.out.println("Enter the phone number of your contact to see if they are on your list\t");
-            if(findContact(s.nextLine()) >= 0){
+            if (findContact(s.nextLine()) >= 0) {
                   System.out.println("That contact is on your list");
-            } else{
+            } else {
                   System.out.println("That contact is not on your list");
             }
       }
@@ -110,7 +110,7 @@ class Contacts {
             int intRemoveContact = findContact(stringRemoveContact);
             if (intRemoveContact == -1) {
                   System.out.println("Cannot find contact");
-            } else{
+            } else {
                   contact.remove(intRemoveContact);
                   System.out.println("Contact has been removed");
             }
@@ -124,22 +124,25 @@ class Contacts {
       private void modifyContacts() {
             String changedName = null;
             String changedNumber = null;
-            System.out.println("Enter the phone number of the contact you would like to modify\t");
+            System.out.println("Enter the phone number or name of the contact you would like to modify\t");
             int elementNo = findContact(s.nextLine());
             if (elementNo == -1) {
                   System.out.println("Contact was not found");
-                return;
+                  return;
+            } else {
+                  System.out.println("Contact has been found");
+                  System.out.println("Would you like to modify the name (y/n)");
+                  if (s.nextLine().equalsIgnoreCase("Y")) {
+                        System.out.println("What would you like to change the name to?");
+                        changedName = s.nextLine();
+                  }
+                  System.out.println("Would you like to modify the phone number (y/n)");
+                  if (s.nextLine().equalsIgnoreCase("Y")) {
+                        System.out.println("What would you like to change the phone number to?");
+                        changedNumber = s.nextLine();
+                  }
             }
-            System.out.println("Would you like to modify the name (y/n)");
-            if (s.nextLine().equalsIgnoreCase("Y")) {
-                  System.out.println("What would you like to change the name to?");
-                  changedName = s.nextLine();
-            }
-            System.out.println("Would you like to modify the phone number (y/n)");
-            if (s.nextLine().equalsIgnoreCase("Y")) {
-                  System.out.println("What would you like to change the phone number to?");
-                  changedNumber = s.nextLine();
-            }
+            
             
             if (changedNumber != null && changedName != null) {
                   contact.set((elementNo), new String[]{changedNumber, changedName});
@@ -157,11 +160,11 @@ class Contacts {
             
       }
       
-      private int findContact(String phoneNumber) {
+      private int findContact(String string) {
             for (String[] array : contact) {// This loop is used to iterate through the arraylist
                   for (String element : array) {//This loop is used to iterate through the array inside the arraylist
-                        if (element.equalsIgnoreCase(phoneNumber)) {
-                              System.out.println("Contact has been found");
+                        if (element.equalsIgnoreCase(string)) {
+                              
                               return contact.indexOf(array);
                         }
                   }
@@ -174,7 +177,13 @@ class Contacts {
             String name = s.nextLine();
             System.out.println("What is the contact's phone number?");
             String phoneNumber = s.nextLine();
-            addContactInformation(new String[]{phoneNumber, name});
+            if (findContact(name) >= 0 || findContact(phoneNumber) >= 0) {
+                  System.out.println("Contact with the same name already exists");
+                  
+            } else {
+                  addContactInformation(new String[]{phoneNumber, name});
+            }
+            
       }
       
       private void addContactInformation(String[] information) {
