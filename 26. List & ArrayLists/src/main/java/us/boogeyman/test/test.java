@@ -4,8 +4,6 @@ package us.boogeyman.test;
 
 
 import java.util.ArrayList;
-import java.util.Scanner;
-
 
 public class test{
       private static ArrayList<String> hello = new ArrayList<String>();

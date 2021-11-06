@@ -135,11 +135,30 @@ class Contacts {
                   if (s.nextLine().equalsIgnoreCase("Y")) {
                         System.out.println("What would you like to change the name to?");
                         changedName = s.nextLine();
+                        for(int i = 1; i > 0; i++){
+                              changedName = s.nextLine();
+                              if(findContact(changedName) == -1){
+                                    break;
+                              } else{
+                                    System.out.println("That name already exists");
+                                    System.out.println("Please choose another name");
+                              }
+                        }
+                       
                   }
                   System.out.println("Would you like to modify the phone number (y/n)");
                   if (s.nextLine().equalsIgnoreCase("Y")) {
                         System.out.println("What would you like to change the phone number to?");
                         changedNumber = s.nextLine();
+                        for(int i = 1; i > 0; i++){
+                              changedNumber = s.nextLine();
+                              if(findContact(changedNumber) == -1){
+                                    break;
+                              } else{
+                                    System.out.println("That phone number already exists");
+                                    System.out.println("Please create another phone number");
+                              }
+                        }
                   }
             }
             
@@ -164,7 +183,6 @@ class Contacts {
             for (String[] array : contact) {// This loop is used to iterate through the arraylist
                   for (String element : array) {//This loop is used to iterate through the array inside the arraylist
                         if (element.equalsIgnoreCase(string)) {
-                              
                               return contact.indexOf(array);
                         }
                   }
