@@ -1,0 +1,12 @@
+
+g	java:S128,"LEnd this switch case with an unconditional break, return or throw statement.(ÒñŠ{8’… €Í/
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8é† €Í/
+v
+java:S22935"YReplace the type specification in this constructor call with the diamond operator ("<>").(şó¤·8÷† €Í/
+v
+java:S22938"YReplace the type specification in this constructor call with the diamond operator ("<>").(ĞúÉ˜8÷† €Í/
+v
+java:S2293>"YReplace the type specification in this constructor call with the diamond operator ("<>").(â¢íè8ù† €Í/
+
+java:S1319k"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(­úÎ¦8™‡ €Í/
