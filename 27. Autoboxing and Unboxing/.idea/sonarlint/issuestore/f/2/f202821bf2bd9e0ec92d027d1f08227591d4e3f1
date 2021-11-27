@@ -1,0 +1,19 @@
+
+7
+java:S2129"!Remove this "Integer" constructor(ıáğ
+^
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(ıáğ
+;
+java:S2129" Remove this "Double" constructor(Ë·ğøÿÿÿÿ
+c
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(Ë·ğøÿÿÿÿ
+V	java:S125!"<This block of commented-out lines of code should be removed.(ù‚Áåşÿÿÿÿ
+Q	java:S125("<This block of commented-out lines of code should be removed.(ŒáÙ×
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(õâ©•úÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶°Î‹ùÿÿÿÿ
+t
+java:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(ñ­£½ûÿÿÿÿ
+t
+java:S2293+"YReplace the type specification in this constructor call with the diamond operator ("<>").(ş‹şşÿÿÿÿ
