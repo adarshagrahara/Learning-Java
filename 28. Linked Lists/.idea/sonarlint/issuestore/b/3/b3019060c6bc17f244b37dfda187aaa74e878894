@@ -1,0 +1,17 @@
+
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ì‹†é
+o
+java:S2293J"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡®ÁÙ
+t
+java:S2293e"YReplace the type specification in this constructor call with the diamond operator ("<>").(åÜÛ¯øÿÿÿÿ
+
+java:S1319!"iThe type of "playlist" should be an interface such as "List" rather than the implementation "LinkedList".(µ¦¬„
+„
+java:S1319+"iThe type of "playList" should be an interface such as "List" rather than the implementation "LinkedList".(Íª”Éÿÿÿÿÿ
+S
+java:S1155y">Use isEmpty() to check whether the collection is empty or not.(ÙÌx
+b
+java:S1223L"LRename this method to prevent any misunderstanding or make it a constructor.(Çµí‘
+|
+java:S4165´"eRemove this useless assignment; "forward" already holds the assigned value along all execution paths.(ı“ôÛ
