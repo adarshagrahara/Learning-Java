@@ -19,3 +19,5 @@ q
 A21. Composition/src/main/java/us/adarsh_agrahara/Motherboard.java,4/9/498f8909683727cd078e28104c08d787c0f327f7
 u
 E21. Composition/src/main/java/us/adarsh_agrahara/Challenge/House.java,9/a/9a81bb4defa2bc8ba2007419966fe96542e12579
+o
+?30. Inner Classes/src/main/java/us/adarsh_agrahara/Gearbox.java,4/3/43881daaeecb2d43e26c6639aca4c93d2144ffd3
