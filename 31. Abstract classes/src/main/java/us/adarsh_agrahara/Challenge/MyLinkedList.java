@@ -1,5 +1,6 @@
 package us.adarsh_agrahara.Challenge;
 
+import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
 
@@ -12,12 +13,12 @@ public class MyLinkedList implements NodeList {
         this.root = root;
     }
 
-    @Override
+    
     public ListItem getRoot() {
         return this.root;
     }
 
-    @Override
+    
     public boolean addItem(ListItem newItem) {
         if (this.root == null) {
             // The list was empty, so this item becomes the head of the list
@@ -58,7 +59,7 @@ public class MyLinkedList implements NodeList {
         return false;
     }
 
-    @Override
+    
     public boolean removeItem(ListItem item) {
         if (item != null) {
             System.out.println("Deleting item " + item.getValue());
@@ -92,7 +93,7 @@ public class MyLinkedList implements NodeList {
         return false;
     }
 
-    @Override
+    
     public void traverse(ListItem root) {
         if (root == null) {
             System.out.println("The list is empty");
@@ -102,5 +103,15 @@ public class MyLinkedList implements NodeList {
                 root = root.next();
             }
         }
+    }
+    
+    @Override
+    public Node item(int index) {
+        return null;
+    }
+    
+    @Override
+    public int getLength() {
+        return 0;
     }
 }
