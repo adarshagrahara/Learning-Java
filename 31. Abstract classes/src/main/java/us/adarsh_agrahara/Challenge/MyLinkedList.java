@@ -3,9 +3,7 @@ package us.adarsh_agrahara.Challenge;
 import org.w3c.dom.NodeList;
 
 
-/**
- * Created by dev on 11/10/2015.
- */
+
 public class MyLinkedList implements NodeList {
 
     private ListItem root = null;

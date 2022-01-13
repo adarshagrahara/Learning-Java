@@ -1,8 +1,5 @@
-package com.timbuchalka;
+package us.adarsh_agrahara.Challenge;
 
-/**
- * Created by dev on 11/10/2015.
- */
 public class Node extends ListItem {
 
     public Node(Object value) {
