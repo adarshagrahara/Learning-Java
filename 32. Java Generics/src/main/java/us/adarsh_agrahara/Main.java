@@ -1,12 +1,13 @@
 package us.adarsh_agrahara;
 
 import java.util.ArrayList;
+import java.util.List;
 
 public class Main {
       
       public static void main(String[] args) {
             // TODO Auto-generated method stub
-            ArrayList items = new ArrayList();
+            ArrayList<Integer> items = new ArrayList();
             items.add(1);
             items.add(2);
             items.add(3);
@@ -18,9 +19,9 @@ public class Main {
             
       }
       
-      public static void printDoubled(ArrayList items){
-            for (int i = 0; i < items.size(); i++) {
-                  System.out.println((Integer) items.get(i)*2);
+      public static void printDoubled(List<Integer> items) {
+            for (int item : items) {
+                  System.out.println(item * 2);
             }
       }
       
