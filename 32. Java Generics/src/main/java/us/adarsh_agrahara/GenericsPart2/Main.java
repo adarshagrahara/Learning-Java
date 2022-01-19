@@ -6,12 +6,18 @@ public class Main {
             BaseballPlayer pat = new BaseballPlayer("pat");
             SoccerPlayer beckham = new SoccerPlayer("beckham");
       
-            Team crows = new Team("crows");
+            Team<FootballPLayer> crows = new Team<>("crows");
             crows.addPlayer(joe);
-            crows.addPlayer(pat);
-            crows.addPlayer(beckham);
+//            crows.addPlayer(pat);
+//            crows.addPlayer(beckham);
       
             System.out.println(crows.numPlayers());
+      
+            Team<BaseballPlayer> cubs = new Team<>("cubs");
+            cubs.addPlayer(pat);
+            
+            Team<SoccerPlayer> soccah = new Team<>("soccah");
+            soccah.addPlayer(beckham);
       }
      
 }
