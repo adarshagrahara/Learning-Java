@@ -1,0 +1,7 @@
+package us.adarsh_agrahara.Challenge;
+public class SoccerPlayer extends Player {
+
+    public SoccerPlayer(String name) {
+        super(name);
+    }
+}
