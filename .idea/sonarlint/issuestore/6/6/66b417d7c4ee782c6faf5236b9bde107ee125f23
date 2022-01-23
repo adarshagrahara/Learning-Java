@@ -1,0 +1,11 @@
+
+Q	java:S125("<This block of commented-out lines of code should be removed.(ò—£
+M
+java:S61267"2Replace this String concatenation with Text block.(ƒŸ§Ÿøÿÿÿÿ
+7	java:S131?""Add a default case to this switch.(¨ÕÉ
+o
+java:S22932"YReplace the type specification in this constructor call with the diamond operator ("<>").(©Õ“
+‹
+java:S13191"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(È§Æèøÿÿÿÿ
+a
+java:S1301?"KReplace this "switch" statement by "if" statements to increase readability.(¨ÕÉ
