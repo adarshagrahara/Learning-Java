@@ -1,0 +1,139 @@
+
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.javaë
+Rus.adarsh_agrahara.Challenge.PackageChallenge.src.com.timbuchalka.mylibrary.SeriesCLASSo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java ("
+inner classfalse*Series2‹
+\us.adarsh_agrahara.Challenge.PackageChallenge.src.com.timbuchalka.mylibrary.Series.nSum(int)DECLARATIONo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java (2·
+aus.adarsh_agrahara.Challenge.PackageChallenge.src.com.timbuchalka.mylibrary.Series.factorial(int)DECLARATIONo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java ( 2·
+aus.adarsh_agrahara.Challenge.PackageChallenge.src.com.timbuchalka.mylibrary.Series.fibonacci(int)DECLARATIONo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java ( ¡
+\us.adarsh_agrahara.Challenge.PackageChallenge.src.com.timbuchalka.mylibrary.Series.nSum(int)METHODo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type long*nSum2◊
+^us.adarsh_agrahara.Challenge.PackageChallenge.src.com.timbuchalka.mylibrary.Series.nSum(int)!nCALLo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java (2◊
+^us.adarsh_agrahara.Challenge.PackageChallenge.src.com.timbuchalka.mylibrary.Series.nSum(int)!nCALLo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java (2‹
+^us.adarsh_agrahara.Challenge.PackageChallenge.src.com.timbuchalka.mylibrary.Series.nSum(int)!n	PARAMETERo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java  (!2Ñ
+longRETURN_TYPEo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java (›
+^us.adarsh_agrahara.Challenge.PackageChallenge.src.com.timbuchalka.mylibrary.Series.nSum(int)!n	PARAMETERo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java  (!*n2|
+intTYPEo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java (ﬁ
+aus.adarsh_agrahara.Challenge.PackageChallenge.src.com.timbuchalka.mylibrary.Series.factorial(int)METHODo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java ( "
+statictrue"
+finalfalse"
+access modifierpublic"
+type long*	factorial2‹
+cus.adarsh_agrahara.Challenge.PackageChallenge.src.com.timbuchalka.mylibrary.Series.factorial(int)!nCALLo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java (2Ë
+ous.adarsh_agrahara.Challenge.PackageChallenge.src.com.timbuchalka.mylibrary.Series.factorial(int)?i@16.17:16.18CALLo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java (2‹
+cus.adarsh_agrahara.Challenge.PackageChallenge.src.com.timbuchalka.mylibrary.Series.factorial(int)!nCALLo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java (2Ë
+ous.adarsh_agrahara.Challenge.PackageChallenge.src.com.timbuchalka.mylibrary.Series.factorial(int)?i@16.17:16.18CALLo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java (2Î
+rus.adarsh_agrahara.Challenge.PackageChallenge.src.com.timbuchalka.mylibrary.Series.factorial(int)?fact@15.13:15.17CALLo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java (2Ë
+ous.adarsh_agrahara.Challenge.PackageChallenge.src.com.timbuchalka.mylibrary.Series.factorial(int)?i@16.17:16.18CALLo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java (2Î
+rus.adarsh_agrahara.Challenge.PackageChallenge.src.com.timbuchalka.mylibrary.Series.factorial(int)?fact@15.13:15.17CALLo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java (2·
+cus.adarsh_agrahara.Challenge.PackageChallenge.src.com.timbuchalka.mylibrary.Series.factorial(int)!n	PARAMETERo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java% (&2Ú
+rus.adarsh_agrahara.Challenge.PackageChallenge.src.com.timbuchalka.mylibrary.Series.factorial(int)?fact@15.13:15.17DECLARATIONo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java (2Ô
+ous.adarsh_agrahara.Challenge.PackageChallenge.src.com.timbuchalka.mylibrary.Series.factorial(int)?i@16.17:16.18DECLARATIONo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java (2Ñ
+longRETURN_TYPEo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java (É
+rus.adarsh_agrahara.Challenge.PackageChallenge.src.com.timbuchalka.mylibrary.Series.factorial(int)?fact@15.13:15.17VARIABLEo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java ("
+type long*fact2}
+longTYPEo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java (˚
+ous.adarsh_agrahara.Challenge.PackageChallenge.src.com.timbuchalka.mylibrary.Series.factorial(int)?i@16.17:16.18VARIABLEo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java ("
+type int*i2|
+intTYPEo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java (‚
+cus.adarsh_agrahara.Challenge.PackageChallenge.src.com.timbuchalka.mylibrary.Series.factorial(int)!n	PARAMETERo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java% (&*n2|
+intTYPEo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java! ($·$
+aus.adarsh_agrahara.Challenge.PackageChallenge.src.com.timbuchalka.mylibrary.Series.fibonacci(int)METHODo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java ( "
+statictrue"
+finalfalse"
+access modifierpublic"
+type long*	fibonacci2‹
+cus.adarsh_agrahara.Challenge.PackageChallenge.src.com.timbuchalka.mylibrary.Series.fibonacci(int)!nCALLo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java (2‹
+cus.adarsh_agrahara.Challenge.PackageChallenge.src.com.timbuchalka.mylibrary.Series.fibonacci(int)!nCALLo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java (2Ë
+ous.adarsh_agrahara.Challenge.PackageChallenge.src.com.timbuchalka.mylibrary.Series.fibonacci(int)?i@32.16:32.17CALLo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java   (2‹
+cus.adarsh_agrahara.Challenge.PackageChallenge.src.com.timbuchalka.mylibrary.Series.fibonacci(int)!nCALLo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java   (2Ë
+ous.adarsh_agrahara.Challenge.PackageChallenge.src.com.timbuchalka.mylibrary.Series.fibonacci(int)?i@32.16:32.17CALLo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java   (2Í
+qus.adarsh_agrahara.Challenge.PackageChallenge.src.com.timbuchalka.mylibrary.Series.fibonacci(int)?fib@31.13:31.16CALLo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java! !(2Ó
+uus.adarsh_agrahara.Challenge.PackageChallenge.src.com.timbuchalka.mylibrary.Series.fibonacci(int)?nMinus2@30.13:30.20CALLo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java! !(2Ó
+uus.adarsh_agrahara.Challenge.PackageChallenge.src.com.timbuchalka.mylibrary.Series.fibonacci(int)?nMinus1@29.13:29.20CALLo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java! !($2Ó
+uus.adarsh_agrahara.Challenge.PackageChallenge.src.com.timbuchalka.mylibrary.Series.fibonacci(int)?nMinus2@30.13:30.20CALLo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java" "(2Ó
+uus.adarsh_agrahara.Challenge.PackageChallenge.src.com.timbuchalka.mylibrary.Series.fibonacci(int)?nMinus1@29.13:29.20CALLo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java" "(2Ó
+uus.adarsh_agrahara.Challenge.PackageChallenge.src.com.timbuchalka.mylibrary.Series.fibonacci(int)?nMinus1@29.13:29.20CALLo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java# #(2Í
+qus.adarsh_agrahara.Challenge.PackageChallenge.src.com.timbuchalka.mylibrary.Series.fibonacci(int)?fib@31.13:31.16CALLo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java# #(2Í
+qus.adarsh_agrahara.Challenge.PackageChallenge.src.com.timbuchalka.mylibrary.Series.fibonacci(int)?fib@31.13:31.16CALLo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java% %(2·
+cus.adarsh_agrahara.Challenge.PackageChallenge.src.com.timbuchalka.mylibrary.Series.fibonacci(int)!n	PARAMETERo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java% (&2ı
+uus.adarsh_agrahara.Challenge.PackageChallenge.src.com.timbuchalka.mylibrary.Series.fibonacci(int)?nMinus1@29.13:29.20DECLARATIONo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java (2ı
+uus.adarsh_agrahara.Challenge.PackageChallenge.src.com.timbuchalka.mylibrary.Series.fibonacci(int)?nMinus2@30.13:30.20DECLARATIONo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java (2Ò
+qus.adarsh_agrahara.Challenge.PackageChallenge.src.com.timbuchalka.mylibrary.Series.fibonacci(int)?fib@31.13:31.16DECLARATIONo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java (2Ô
+ous.adarsh_agrahara.Challenge.PackageChallenge.src.com.timbuchalka.mylibrary.Series.fibonacci(int)?i@32.16:32.17DECLARATIONo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java   (2Ñ
+longRETURN_TYPEo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java (â
+uus.adarsh_agrahara.Challenge.PackageChallenge.src.com.timbuchalka.mylibrary.Series.fibonacci(int)?nMinus1@29.13:29.20VARIABLEo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java ("
+type long*nMinus12}
+longTYPEo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java (â
+uus.adarsh_agrahara.Challenge.PackageChallenge.src.com.timbuchalka.mylibrary.Series.fibonacci(int)?nMinus2@30.13:30.20VARIABLEo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java ("
+type long*nMinus22}
+longTYPEo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java (Å
+qus.adarsh_agrahara.Challenge.PackageChallenge.src.com.timbuchalka.mylibrary.Series.fibonacci(int)?fib@31.13:31.16VARIABLEo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java ("
+type long*fib2}
+longTYPEo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java (˚
+ous.adarsh_agrahara.Challenge.PackageChallenge.src.com.timbuchalka.mylibrary.Series.fibonacci(int)?i@32.16:32.17VARIABLEo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java   ("
+type int*i2|
+intTYPEo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java   (‚
+cus.adarsh_agrahara.Challenge.PackageChallenge.src.com.timbuchalka.mylibrary.Series.fibonacci(int)!n	PARAMETERo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java% (&*n2|
+intTYPEo
+esrc/main/java/us/adarsh_agrahara/Challenge/PackageChallenge/src/com/timbuchalka/mylibrary/Series.java! ($

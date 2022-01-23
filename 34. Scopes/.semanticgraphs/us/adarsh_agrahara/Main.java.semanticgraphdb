@@ -1,0 +1,55 @@
+
+*src/main/java/us/adarsh_agrahara/Main.javaé
+us.adarsh_agrahara.MainCLASS4
+*src/main/java/us/adarsh_agrahara/Main.java ("
+inner classfalse*Main2u
+0us.adarsh_agrahara.Main.main(java.lang.String[])DECLARATION4
+*src/main/java/us/adarsh_agrahara/Main.java (Ñ
+0us.adarsh_agrahara.Main.main(java.lang.String[])METHOD4
+*src/main/java/us/adarsh_agrahara/Main.java ("
+statictrue"
+finalfalse"
+access modifierpublic"
+type void*main2k
+-java.io.PrintStream.println(java.lang.String)CALL4
+*src/main/java/us/adarsh_agrahara/Main.java (2k
+-us.adarsh_agrahara.ScopeCheck.getPrivateVar()CALL4
+*src/main/java/us/adarsh_agrahara/Main.javaH (U2k
+-java.io.PrintStream.println(java.lang.String)CALL4
+*src/main/java/us/adarsh_agrahara/Main.java (2f
+(us.adarsh_agrahara.ScopeCheck.timesTwo()CALL4
+*src/main/java/us/adarsh_agrahara/Main.java	 	(2h
+*us.adarsh_agrahara.ScopeCheck.ScopeCheck()CALL4
+*src/main/java/us/adarsh_agrahara/Main.java! (+2†
+Hus.adarsh_agrahara.Main.main(java.lang.String[])?scopeInstance@6.13:6.26CALL4
+*src/main/java/us/adarsh_agrahara/Main.java: (G2‚
+Dus.adarsh_agrahara.Main.main(java.lang.String[])?privateVar@5.9:5.19CALL4
+*src/main/java/us/adarsh_agrahara/Main.java (2†
+Hus.adarsh_agrahara.Main.main(java.lang.String[])?scopeInstance@6.13:6.26CALL4
+*src/main/java/us/adarsh_agrahara/Main.java	 	(2x
+5us.adarsh_agrahara.Main.main(java.lang.String[])!args	PARAMETER4
+*src/main/java/us/adarsh_agrahara/Main.java" (&2‰
+Dus.adarsh_agrahara.Main.main(java.lang.String[])?privateVar@5.9:5.19DECLARATION4
+*src/main/java/us/adarsh_agrahara/Main.java	 (2
+Hus.adarsh_agrahara.Main.main(java.lang.String[])?scopeInstance@6.13:6.26DECLARATION4
+*src/main/java/us/adarsh_agrahara/Main.java (2I
+voidRETURN_TYPE4
+*src/main/java/us/adarsh_agrahara/Main.java (ó
+Dus.adarsh_agrahara.Main.main(java.lang.String[])?privateVar@5.9:5.19VARIABLE4
+*src/main/java/us/adarsh_agrahara/Main.java	 ("
+type String*
+privateVar2N
+java.lang.StringTYPE4
+*src/main/java/us/adarsh_agrahara/Main.java (õ
+Hus.adarsh_agrahara.Main.main(java.lang.String[])?scopeInstance@6.13:6.26VARIABLE4
+*src/main/java/us/adarsh_agrahara/Main.java ("
+type 
+ScopeCheck*scopeInstance2[
+us.adarsh_agrahara.ScopeCheckTYPE4
+*src/main/java/us/adarsh_agrahara/Main.java (2h
+*us.adarsh_agrahara.ScopeCheck.ScopeCheck()CALL4
+*src/main/java/us/adarsh_agrahara/Main.java! (+Ğ
+5us.adarsh_agrahara.Main.main(java.lang.String[])!args	PARAMETER4
+*src/main/java/us/adarsh_agrahara/Main.java" (&*args2P
+java.lang.String[]TYPE4
+*src/main/java/us/adarsh_agrahara/Main.java (!

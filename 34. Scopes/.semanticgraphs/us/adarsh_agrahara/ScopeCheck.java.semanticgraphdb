@@ -1,0 +1,84 @@
+
+0src/main/java/us/adarsh_agrahara/ScopeCheck.javaÁ
+us.adarsh_agrahara.ScopeCheckCLASS:
+0src/main/java/us/adarsh_agrahara/ScopeCheck.java ("
+inner classfalse*
+ScopeCheck2u
+*us.adarsh_agrahara.ScopeCheck.ScopeCheck()DECLARATION:
+0src/main/java/us/adarsh_agrahara/ScopeCheck.java (2x
+-us.adarsh_agrahara.ScopeCheck.getPrivateVar()DECLARATION:
+0src/main/java/us/adarsh_agrahara/ScopeCheck.java (2s
+(us.adarsh_agrahara.ScopeCheck.timesTwo()DECLARATION:
+0src/main/java/us/adarsh_agrahara/ScopeCheck.java (2|
+1us.adarsh_agrahara.ScopeCheck?publicVar@3.17:3.26DECLARATION:
+0src/main/java/us/adarsh_agrahara/ScopeCheck.java (2}
+2us.adarsh_agrahara.ScopeCheck?privateVar@4.18:4.28DECLARATION:
+0src/main/java/us/adarsh_agrahara/ScopeCheck.java (Õ
+*us.adarsh_agrahara.ScopeCheck.ScopeCheck()CONSTRUCTOR:
+0src/main/java/us/adarsh_agrahara/ScopeCheck.java (*
+ScopeCheck2q
+-java.io.PrintStream.println(java.lang.String)CALL:
+0src/main/java/us/adarsh_agrahara/ScopeCheck.java (2u
+1us.adarsh_agrahara.ScopeCheck?publicVar@3.17:3.26CALL:
+0src/main/java/us/adarsh_agrahara/ScopeCheck.javaE (N2v
+2us.adarsh_agrahara.ScopeCheck?privateVar@4.18:4.28CALL:
+0src/main/java/us/adarsh_agrahara/ScopeCheck.javab (l2h
+us.adarsh_agrahara.ScopeCheckRETURN_TYPE:
+0src/main/java/us/adarsh_agrahara/ScopeCheck.java (î
+-us.adarsh_agrahara.ScopeCheck.getPrivateVar()METHOD:
+0src/main/java/us/adarsh_agrahara/ScopeCheck.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type int*getPrivateVar2v
+2us.adarsh_agrahara.ScopeCheck?privateVar@4.18:4.28CALL:
+0src/main/java/us/adarsh_agrahara/ScopeCheck.java (2N
+intRETURN_TYPE:
+0src/main/java/us/adarsh_agrahara/ScopeCheck.java (é
+
+(us.adarsh_agrahara.ScopeCheck.timesTwo()METHOD:
+0src/main/java/us/adarsh_agrahara/ScopeCheck.java ("
+staticfalse"
+finalfalse"
+access modifierpublic"
+type void*timesTwo2q
+-java.io.PrintStream.println(java.lang.String)CALL:
+0src/main/java/us/adarsh_agrahara/ScopeCheck.java ($2z
+6us.adarsh_agrahara.ScopeCheck.timesTwo()?i@17.21:17.22CALL:
+0src/main/java/us/adarsh_agrahara/ScopeCheck.java (2z
+6us.adarsh_agrahara.ScopeCheck.timesTwo()?i@17.21:17.22CALL:
+0src/main/java/us/adarsh_agrahara/ScopeCheck.java$ (%2z
+6us.adarsh_agrahara.ScopeCheck.timesTwo()?i@17.21:17.22CALL:
+0src/main/java/us/adarsh_agrahara/ScopeCheck.java% (&2z
+6us.adarsh_agrahara.ScopeCheck.timesTwo()?i@17.21:17.22CALL:
+0src/main/java/us/adarsh_agrahara/ScopeCheck.java6 (72É
+?us.adarsh_agrahara.ScopeCheck.timesTwo()?privateVar@16.16:16.26CALL:
+0src/main/java/us/adarsh_agrahara/ScopeCheck.java8 (B2ä
+?us.adarsh_agrahara.ScopeCheck.timesTwo()?privateVar@16.16:16.26DECLARATION:
+0src/main/java/us/adarsh_agrahara/ScopeCheck.java (2Å
+6us.adarsh_agrahara.ScopeCheck.timesTwo()?i@17.21:17.22DECLARATION:
+0src/main/java/us/adarsh_agrahara/ScopeCheck.java (2O
+voidRETURN_TYPE:
+0src/main/java/us/adarsh_agrahara/ScopeCheck.java (Í
+?us.adarsh_agrahara.ScopeCheck.timesTwo()?privateVar@16.16:16.26VARIABLE:
+0src/main/java/us/adarsh_agrahara/ScopeCheck.java ("
+type int*
+privateVar2G
+intTYPE:
+0src/main/java/us/adarsh_agrahara/ScopeCheck.java (ÿ
+6us.adarsh_agrahara.ScopeCheck.timesTwo()?i@17.21:17.22VARIABLE:
+0src/main/java/us/adarsh_agrahara/ScopeCheck.java ("
+type int*i2G
+intTYPE:
+0src/main/java/us/adarsh_agrahara/ScopeCheck.java (€
+1us.adarsh_agrahara.ScopeCheck?publicVar@3.17:3.26VARIABLE:
+0src/main/java/us/adarsh_agrahara/ScopeCheck.java ("
+type int*	publicVar2G
+intTYPE:
+0src/main/java/us/adarsh_agrahara/ScopeCheck.java (›
+2us.adarsh_agrahara.ScopeCheck?privateVar@4.18:4.28VARIABLE:
+0src/main/java/us/adarsh_agrahara/ScopeCheck.java ("
+type int*
+privateVar2G
+intTYPE:
+0src/main/java/us/adarsh_agrahara/ScopeCheck.java (
