@@ -25,8 +25,12 @@ public class ScopeCheck {
             }
       }
       
+      public void useInner(){
+            InnerClass inner = new InnerClass();
+            System.out.println("varThree from outer class = "+inner.varThree);
+      }
       public class InnerClass {
-            public int varThree = 3;
+            private int varThree = 3;
             
             public InnerClass() {
                   System.out.println("Inner Class created, private varOne = "+varOne+" private varThree = " + varThree);

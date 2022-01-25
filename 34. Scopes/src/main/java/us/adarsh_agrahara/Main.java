@@ -5,6 +5,8 @@ public class Main {
 		// TODO Auto-generated method stub
 		String varFour = "This is private Main";
 		ScopeCheck scopeInstance = new ScopeCheck();
+		scopeInstance.useInner();
+		
 		System.out.println("Scope instance for private varOne = "+ scopeInstance.getPrivateVar());
 		System.out.println(varFour);
 		scopeInstance.timesTwo();
