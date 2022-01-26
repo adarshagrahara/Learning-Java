@@ -112,3 +112,7 @@ Y.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.16.0.2020031
 pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
 k
 ;.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml,9/7/97b859181c72b7c2f01d8cb551d1fb37c448bbfd
+S
+#.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
+`
+0src/main/java/us/adarsh_agrahara/ScopeCheck.java,5/3/53d8898e2678009f71d450bfae568af86ee23318
