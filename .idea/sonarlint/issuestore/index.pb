@@ -167,3 +167,7 @@ Z
 *33. Packages/Implementing packages/pom.xml,0/e/0ef5336ec35e9e3ff099db3b1105e8e733ea35ee
 Ž
 ^33. Packages/Implementing packages/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml,4/b/4bf63a1e8f07590dc6a247a441a280e01da18b5d
+^
+.34. Scopes/.idea/sonarlint/issuestore/index.pb,c/1/c18b77d24ec2d696415f51e91656639d45b3b559
+h
+835. Access Modifiers/.idea/sonarlint/issuestore/index.pb,6/7/670c114e87ee2a190f78bdf6bbdabd2cd66275e4
