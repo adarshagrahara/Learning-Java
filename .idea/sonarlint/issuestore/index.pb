@@ -171,3 +171,5 @@ Z
 .34. Scopes/.idea/sonarlint/issuestore/index.pb,c/1/c18b77d24ec2d696415f51e91656639d45b3b559
 h
 835. Access Modifiers/.idea/sonarlint/issuestore/index.pb,6/7/670c114e87ee2a190f78bdf6bbdabd2cd66275e4
+^
+.37. Finals/.idea/sonarlint/issuestore/index.pb,9/0/9028782b1039a23332d6af7a8b84bf3eb701d5a4
