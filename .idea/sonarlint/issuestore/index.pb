@@ -271,8 +271,6 @@ f38. Collections/1. Collections Overview/.metadata/.plugins/org.eclipse.m2e.logb
 í38. Collections/1. Collections Overview/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2021/1/2/refactorings.history,6/9/69dd8cbaa67ea6c95f9a10fc5f69ac7b5dcf0efe
 ¡
 ê38. Collections/1. Collections Overview/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2021/1/2/refactorings.index,6/3/630398177a7315690934cbd8998cfb6a7357b05c
-Ö
-U38. Collections/1. Collections Overview/src/main/java/us/adarsh_agrahara/Theatre.java,e/3/e33963b03bd6d3d317912cafc95697dd3ec31a30
 ë
 a38. Collections/1. Collections Overview/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml,0/3/0327b46dc2e5ddda246af6457b195bf12d3e6961
 û
@@ -293,5 +291,3 @@ c38. Collections/1. Collections Overview/.metadata/.plugins/org.eclipse.ui.workb
 .36. Static/.idea/sonarlint/issuestore/index.pb,6/7/67425b7a705eb9eba838c07c25ab663cab48dfa9
 S
 #.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
-{
-K38. Collections/1. Collections Overview/.idea/sonarlint/issuestore/index.pb,5/7/57fa9592cbe169cee998b608dc2dda3fdf30794f
