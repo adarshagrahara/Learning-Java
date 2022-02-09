@@ -291,3 +291,7 @@ c38. Collections/1. Collections Overview/.metadata/.plugins/org.eclipse.ui.workb
 .36. Static/.idea/sonarlint/issuestore/index.pb,6/7/67425b7a705eb9eba838c07c25ab663cab48dfa9
 S
 #.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
+{
+K38. Collections/1. Collections Overview/.idea/sonarlint/issuestore/index.pb,5/7/57fa9592cbe169cee998b608dc2dda3fdf30794f
+…
+U38. Collections/1. Collections Overview/src/main/java/us/adarsh_agrahara/Theatre.java,e/3/e33963b03bd6d3d317912cafc95697dd3ec31a30
