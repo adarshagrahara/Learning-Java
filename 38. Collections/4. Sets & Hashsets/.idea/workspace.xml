@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3cbbbe3-aeb1-4c46-86a3-fb9c57596013" name="Changes" comment="final hashcodes" />
+    <list default="true" id="a3cbbbe3-aeb1-4c46-86a3-fb9c57596013" name="Changes" comment="final hashcodes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,12 +53,17 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/us/adarsh_agrahara/SetChallenge" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/us/adarsh_agrahara/SetChallenge" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.SetMain">
     <configuration name="DogMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -127,6 +134,8 @@
       <workItem from="1644701807432" duration="4627000" />
       <workItem from="1644992131411" duration="1288000" />
       <workItem from="1645510810696" duration="5008000" />
+      <workItem from="1645518097914" duration="333000" />
+      <workItem from="1645553394468" duration="1564000" />
     </task>
     <task id="LOCAL-00001" summary="Hash Sets and Sets">
       <created>1644704400582</created>
@@ -156,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645514671344</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="final hashcodes">
+      <created>1645518332375</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1645518332375</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
